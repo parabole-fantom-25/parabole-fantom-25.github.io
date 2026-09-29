@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#1b2a3d"/>
+  <rect y="300" width="600" height="100" fill="#24405f"/>
+  <ellipse cx="300" cy="360" rx="150" ry="24" fill="#16283b"/>
+  <!-- corps -->
+  <path d="M300 180 C230 180 215 250 220 320 L380 320 C385 250 370 180 300 180Z" fill="#111418"/>
+  <!-- tête -->
+  <circle cx="300" cy="170" r="80" fill="#111418"/>
+  <!-- oreilles -->
+  <path d="M235 120 L215 55 L285 105Z" fill="#111418"/>
+  <path d="M365 120 L385 55 L315 105Z" fill="#111418"/>
+  <path d="M240 112 L230 78 L268 104Z" fill="#3a2b33"/>
+  <path d="M360 112 L370 78 L332 104Z" fill="#3a2b33"/>
+  <!-- yeux -->
+  <ellipse cx="268" cy="165" rx="22" ry="26" fill="#c7f04a"/>
+  <ellipse cx="332" cy="165" rx="22" ry="26" fill="#c7f04a"/>
+  <ellipse cx="268" cy="165" rx="6" ry="24" fill="#111418"/>
+  <ellipse cx="332" cy="165" rx="6" ry="24" fill="#111418"/>
+  <circle cx="262" cy="156" r="4" fill="#fff" opacity=".8"/>
+  <circle cx="326" cy="156" r="4" fill="#fff" opacity=".8"/>
+  <!-- nez + museau -->
+  <path d="M294 192 L306 192 L300 200Z" fill="#e0899e"/>
+  <path d="M300 200 L300 210" stroke="#2a2f36" stroke-width="2"/>
+  <path d="M300 210 C292 210 288 205 285 202" fill="none" stroke="#2a2f36" stroke-width="2"/>
+  <path d="M300 210 C308 210 312 205 315 202" fill="none" stroke="#2a2f36" stroke-width="2"/>
+  <!-- moustaches -->
+  <g stroke="#8493a5" stroke-width="1.6">
+    <path d="M285 196 L205 182"/><path d="M285 204 L208 208"/>
+    <path d="M315 196 L395 182"/><path d="M315 204 L392 208"/>
+  </g>
+  <!-- queue -->
+  <path d="M380 300 C440 300 450 240 420 210" fill="none" stroke="#111418" stroke-width="26" stroke-linecap="round"/>
+  <!-- collier -->
+  <path d="M255 235 C275 250 325 250 345 235" fill="none" stroke="#c0392b" stroke-width="7"/>
+  <circle cx="300" cy="248" r="6" fill="#f1c40f"/>
+</svg>
