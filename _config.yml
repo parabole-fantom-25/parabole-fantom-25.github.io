@@ -1,3 +1,6 @@
 title: "Le carnet de parabole-fantom-25"
 description: "Radio, satellites et bricolages nocturnes"
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
